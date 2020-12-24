@@ -1,0 +1,7 @@
+E:\Работы VS\vibor_variantov\bin\Debug\vibor_variantov.exe.config
+E:\Работы VS\vibor_variantov\bin\Debug\vibor_variantov.exe
+E:\Работы VS\vibor_variantov\bin\Debug\vibor_variantov.pdb
+E:\Работы VS\vibor_variantov\obj\Debug\vibor_variantov.csprojAssemblyReference.cache
+E:\Работы VS\vibor_variantov\obj\Debug\vibor_variantov.csproj.CoreCompileInputs.cache
+E:\Работы VS\vibor_variantov\obj\Debug\vibor_variantov.exe
+E:\Работы VS\vibor_variantov\obj\Debug\vibor_variantov.pdb

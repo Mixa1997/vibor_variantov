@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vibor_variantov", "vibor_variantov.csproj", "{F91421BB-5449-40BF-8371-93624707B56A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91421BB-5449-40BF-8371-93624707B56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91421BB-5449-40BF-8371-93624707B56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91421BB-5449-40BF-8371-93624707B56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91421BB-5449-40BF-8371-93624707B56A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CB8190B-8F47-4BEF-AA50-84322D9C5E4E}
+	EndGlobalSection
+EndGlobal
